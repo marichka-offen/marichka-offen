@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Marichka</h1>
 <h3 align="center">A passionate frontend developer from 🇺🇸🇺🇦</h3>
 
-- 🌱 I’m currently getting my certification in **Next.js framework, Figma design and prototyping tool, and Three.js library**
+* 🌱 I’m currently getting my certification in **Next.js framework, Figma design and prototyping tool, and Three.js library**. Why? Because I love to learn, and these three are on my radar at the moment.
 
-- 👩🏻‍💻 All of my projects are available on my [portfolio website](https://www.marichkaoffen.com/)
+* 👩🏻‍💻 All of my projects are available on my [portfolio website](https://www.marichkaoffen.com/)
 
-- 💬 Ask me about **React, Vue and TypeScript**
+* Code examples of my previous work:
+ 
+  * [Work Pools workers feature](https://github.com/PrefectHQ/prefect-ui-library/pull/1173) - I am the sole author of both the feature and every component included in this PR. As the final submission in a series of PRs, this represents my last contribution as a frontend software engineer at Prefect, and I consider it to be among my best work.
+  * [Multi-delete feature](https://github.com/PrefectHQ/prefect-ui-library/pull/644/files) - Out of the many small features that I had the opportunity to work on, I am choosing to highlight this one in particular because it was my personal favorite and also the most enjoyable to develop.
+  * [ScatterPlot chart](https://github.com/PrefectHQ/vue-charts/pull/5) - This project marked my first significant solo assignment at Prefect, which required me to quickly familiarize myself with the D3 library and deliver a finished product in time for a live stream event. Although I received guidance from a senior developer, completing this task remains a proud accomplishment of mine. Despite undergoing multiple updates and iterations since then, moments like these are unforgettable..
 
-- 📫 How to reach me **marichka.offen@gmail.com or [LinkedIn](https://www.linkedin.com/in/marichka-offen/)**
+* 💬 Ask me about **React, Vue and TypeScript** and projects I worked on, I'm more than happy to share more code examples
 
-- 📄 Learn about my experiences in my [Resume](https://docs.google.com/document/d/1T_DrCQ7RGrIx-BiOEjts1FdxFxDqu9Aa/)
+* 📫 How to reach me **marichka.offen@gmail.com or [LinkedIn](https://www.linkedin.com/in/marichka-offen/)**
+
+* 📄 Learn about my experiences in my [Resume](https://docs.google.com/document/d/1T_DrCQ7RGrIx-BiOEjts1FdxFxDqu9Aa/)
 <br />
 <h3 align="left">Connect with me:</h3>
 
