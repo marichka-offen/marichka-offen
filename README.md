@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marichka</h1>
 <h3 align="center">A passionate frontend developer from 🇺🇸🇺🇦</h3>
 
-- 🌱 I’m currently learning **Next.js framework, Figma design and prototyping tool, and Three.js library**
+- 🌱 I’m currently getting my certification in **Next.js framework, Figma design and prototyping tool, and Three.js library**
 
 - 👩🏻‍💻 All of my projects are available on my [portfolio website](https://www.marichkaoffen.com/)
 
