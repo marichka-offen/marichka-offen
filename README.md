@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Marichka</h1>
 <h3 align="center">A passionate frontend developer from 🇺🇸🇺🇦</h3>
 
+* 👀 I am currently in search of my next career opportunity. If you are part of an exceptional team seeking a new member, I would greatly appreciate the chance to connect with you.
+
 * 🌱 I’m currently getting my certification in **Next.js framework, Figma design and prototyping tool, and Three.js library**. Why? Because I love to learn, and these three are on my radar at the moment.
 
 * 👩🏻‍💻 All of my projects are available on my [portfolio website](https://www.marichkaoffen.com/)
 
-* Code examples of my previous work:
+* 👾 Code examples of my previous work:
  
   * [Work Pools workers feature](https://github.com/PrefectHQ/prefect-ui-library/pull/1173) - I am the sole author of both the feature and every component included in this PR. As the final submission in a series of PRs, this represents my last contribution as a frontend software engineer at Prefect, and I consider it to be among my best work.
   * [Multi-delete feature](https://github.com/PrefectHQ/prefect-ui-library/pull/644/files) - Out of the many small features that I had the opportunity to work on, I am choosing to highlight this one in particular because it was my personal favorite and also the most enjoyable to develop.
