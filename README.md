@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marichka</h1>
 <h3 align="center">A passionate frontend developer from 🇺🇸🇺🇦</h3>
 
-* 👀 I am currently in search of my next career opportunity. If you are part of an exceptional team seeking a new member, I would greatly appreciate the chance to connect with you!
+[//]: <> (* 👀 I am currently in search of my next career opportunity. If you are part of an exceptional team seeking a new member, I would greatly appreciate the chance to connect with you!)
 
 * 🌱 I’m currently getting my certification in **Next.js framework, Figma design and prototyping tool, and Three.js library**. Why? Because I love to learn, and these three are on my radar at the moment.
 
